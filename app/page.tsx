@@ -18,8 +18,11 @@ export default function Page() {
         </div>
 
         <div className="mt-16 sm:mt-20">
-          <p className="mb-4 flex items-center gap-2 text-sm font-semibold uppercase tracking-[0.2em] text-[#c62828]">
+          <p className="mb-2 flex items-center gap-2 text-sm font-semibold uppercase tracking-[0.2em] text-[#c62828]">
             <span className="h-px w-7 bg-[#c62828]" /> Software Developer
+          </p>
+          <p className="mb-5 text-sm font-medium text-[#c62828] sm:text-base">
+            Currently looking for jobs/work
           </p>
           <h1 className="max-w-xl text-4xl font-semibold tracking-[-0.045em] text-slate-950 sm:text-6xl">
             Brahamjot Singh
